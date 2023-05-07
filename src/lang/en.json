@@ -1,0 +1,30 @@
+{
+  "translation": {
+    "hero_title": "Unify and connect together.",
+    "hero_desc": "<span class=\"font-['Sen-Bold'] gradient-text\">Vodeus</span> the super application to connect with Christians worldwide.<br/>Share your stories. Discover theirs. Make new friends.",
+    "join_beta": "Join the beta",
+    "close": "Close",
+    "chat_us": "Chat with us now.",
+    "contact_us": "Contact us",
+    "chat_together": "Let's chat together!",
+    "become_embassador": "Become a Vodeus ambassador. Get rewarded.",
+    "join_as_ambassador": "Do you want to join as an ambassador?",
+    "tell_us_about_you": "Tell us about you",
+    "your_mission": "Your missions",
+    "mission_1": "Share about the app to your friends",
+    "mission_2": "Make the app known on your campus",
+    "mission_3": "Help us improve",
+    "rewards": "Rewards",
+    "reward_1": "Get financially rewarded every week.",
+    "reward_2": "We’ll give a donation of $100 to the charity of your choice if you are selected.",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email_address": "Email Address",
+    "country": "Country",
+    "contact_me": "Contact me",
+    "joined_thanks": "Joined! Thanks",
+    "thank_you": "Thank you",
+    "message":"Message",
+    "privacy":"Privacy"
+  }
+}
