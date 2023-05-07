@@ -26,7 +26,7 @@ const Home = () => {
   }
 
   return (
-    <div class="bg-gradient-to-b from-[#6050AD] to-[#4A3C91] flex flex-col items-center justify-center h-screen">
+    <div class="bg-gradient-to-b from-[#0A5050] to-[#0B7D70] flex flex-col items-center justify-center h-screen">
       <img src={LOGO} alt="" className="w-auto h-[30%]" />
       <div className='flex flex-col md:flex-row mt-[20%] md:mt-[6%]'>
         <StoreButton
