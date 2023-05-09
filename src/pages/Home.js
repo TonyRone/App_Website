@@ -36,7 +36,7 @@ const Home = () => {
         />
         <StoreButton
           store="ios"
-          url={'https://apps.apple.com/app/id1636479516'}
+          url={'https://apps.apple.com/app/id1665412025'}
           title='iOS Store Button'
         />
       </div>
